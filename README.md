@@ -78,10 +78,8 @@ Contributions are welcome! To contribute:
 
 5. Open a pull request.
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
-For questions or suggestions, please open an issue in the repository or contact the maintainer directly.
+For questions or suggestions, please open an issue in the repository or contact the me  directly.
