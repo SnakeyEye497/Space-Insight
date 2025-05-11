@@ -1,7 +1,7 @@
 
 # 🚀 Space Insight
 
-**Space Insight** is a data-driven project aimed at analyzing and visualizing space-related datasets using machine learning and deep learning techniques. It leverages Jupyter Notebooks for interactive exploration and model development.
+**Space Insight** is a data-driven project aimed at analyzing and visualizing space-related dataset using machine learning and deep learning techniques. It leverages Jupyter Notebooks for interactive exploration and model development.
 
 ## 📁 Project Structure
 
